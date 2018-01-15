@@ -80,8 +80,7 @@
 				714CB872200760C500AAAEDF /* LaunchScreen.storyboard */,
 				714CB875200760C500AAAEDF /* Info.plist */,
 				714CB876200760C500AAAEDF /* main.m */,
-				7187E6DE20089AAA00D96C46 /* XPlistFileManager.h */,
-				7187E6DF20089AAA00D96C46 /* XPlistFileManager.m */,
+				7150704E200CBB1600ED00FD /* XPlistFileManager */,
 			);
 			path = IcouldSyncDemo;
 			sourceTree = "<group>";
@@ -91,6 +90,15 @@
 			children = (
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7150704E200CBB1600ED00FD /* XPlistFileManager */ = {
+			isa = PBXGroup;
+			children = (
+				7187E6DE20089AAA00D96C46 /* XPlistFileManager.h */,
+				7187E6DF20089AAA00D96C46 /* XPlistFileManager.m */,
+			);
+			path = XPlistFileManager;
 			sourceTree = "<group>";
 		};
 		7173C9922009F68000A34531 /* XiCloudManager */ = {
